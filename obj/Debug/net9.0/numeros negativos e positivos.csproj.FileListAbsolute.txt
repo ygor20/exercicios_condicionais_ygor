@@ -1,0 +1,14 @@
+C:\Users\samsung\Desktop\numeros negativos e positivos\bin\Debug\net9.0\numeros negativos e positivos.exe
+C:\Users\samsung\Desktop\numeros negativos e positivos\bin\Debug\net9.0\numeros negativos e positivos.deps.json
+C:\Users\samsung\Desktop\numeros negativos e positivos\bin\Debug\net9.0\numeros negativos e positivos.runtimeconfig.json
+C:\Users\samsung\Desktop\numeros negativos e positivos\bin\Debug\net9.0\numeros negativos e positivos.dll
+C:\Users\samsung\Desktop\numeros negativos e positivos\bin\Debug\net9.0\numeros negativos e positivos.pdb
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\numeros negativos e positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\numeros negativos e positivos.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\numeros negativos e positivos.AssemblyInfo.cs
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\numeros negativos e positivos.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\numeros negativos e positivos.dll
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\refint\numeros negativos e positivos.dll
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\numeros negativos e positivos.pdb
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\numeros negativos e positivos.genruntimeconfig.cache
+C:\Users\samsung\Desktop\numeros negativos e positivos\obj\Debug\net9.0\ref\numeros negativos e positivos.dll

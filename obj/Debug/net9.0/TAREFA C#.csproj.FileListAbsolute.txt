@@ -1,0 +1,30 @@
+C:\Users\samsung\Desktop\TAREFA C#\bin\Debug\net9.0\TAREFA C#.exe
+C:\Users\samsung\Desktop\TAREFA C#\bin\Debug\net9.0\TAREFA C#.deps.json
+C:\Users\samsung\Desktop\TAREFA C#\bin\Debug\net9.0\TAREFA C#.runtimeconfig.json
+C:\Users\samsung\Desktop\TAREFA C#\bin\Debug\net9.0\TAREFA C#.dll
+C:\Users\samsung\Desktop\TAREFA C#\bin\Debug\net9.0\TAREFA C#.pdb
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\TAREFA C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\TAREFA C#.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\TAREFA C#.AssemblyInfo.cs
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\TAREFA C#.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\TAREFA C#.dll
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\refint\TAREFA C#.dll
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\TAREFA C#.pdb
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\TAREFA C#.genruntimeconfig.cache
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\ref\TAREFA C#.dll
+C:\Users\samsung\Desktop\TAREFA C#\obj\Debug\net9.0\TAREFA C#.sourcelink.json
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\TAREFA C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\TAREFA C#.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\TAREFA C#.AssemblyInfo.cs
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\TAREFA C#.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\TAREFA C#.sourcelink.json
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\TAREFA C#.dll
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\refint\TAREFA C#.dll
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\TAREFA C#.pdb
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\bin\Debug\net9.0\TAREFA C#.exe
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\bin\Debug\net9.0\TAREFA C#.deps.json
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\bin\Debug\net9.0\TAREFA C#.runtimeconfig.json
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\bin\Debug\net9.0\TAREFA C#.dll
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\bin\Debug\net9.0\TAREFA C#.pdb
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\TAREFA C#.genruntimeconfig.cache
+C:\Users\samsung\Desktop\Atividade_Condicionais_Ygor\obj\Debug\net9.0\ref\TAREFA C#.dll
