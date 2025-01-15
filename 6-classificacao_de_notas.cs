@@ -15,6 +15,14 @@ else if (nota >= 7)
     Console.WriteLine("Boa!");
 }
 
+else if (nota >= 5)
+
+{
+    Console.WriteLine("Regular!");
+}
+
+
+
 else
 {
     Console.WriteLine ("Baixa!");
