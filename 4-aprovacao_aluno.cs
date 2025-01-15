@@ -2,7 +2,7 @@
 
 
 Console.WriteLine ("Por favor, digite sua nota");
-int nota = int.Parse (Console.ReadLine());
+double nota = double.Parse (Console.ReadLine());
 
 if (nota >= 6)
 {
